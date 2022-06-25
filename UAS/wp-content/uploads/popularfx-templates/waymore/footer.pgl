@@ -1,0 +1,32 @@
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#212121ff","ele_padding":"30px,0px,20px,0px","pagelayer-id":"in88668"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"6","pagelayer-id":"yc93107"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Waymore","site_title_state":"normal","text-align":"left","title_padding":"0,0,0,0","title_color":"#ea3a60ff","site_title_style":",30,,,Small-caps,,Solid,,,,","pagelayer-id":"l863814"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \u003c\/p\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"ruf6503"} --><p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"3","icon_size":"16","color_scheme":"","icon_color":"#ffffffff","social_hover_delay":"400","icon_color_hover":"#ffffff","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#ea3a60ff","icon_bg_color_hover":"#000000ff","social_hover":"hover","pagelayer-id":"0z23751"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"27h5839"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"exa3753"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-google-plus-g","social_url":"https:\/\/plus.google.com\/google.com\/sitepad","pagelayer-id":"plm2136"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/www.instagram.com\/sitepad","pagelayer-id":"4s87382"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"2","pagelayer-id":"qhl3613"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003eQuick Links\u003c\/h6\u003e","heading_state":"normal","color":"#ea3a60ff","pagelayer-id":"w2o3613"} --><h6>Quick Links</h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"20","list_text_state":"normal","item_indent":"0","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","list_color":"#ffffffff","list_typo":",,,,,,Solid,,,,","pagelayer-id":"4im2723"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nHome","pagelayer-id":"xj37190"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nAbout Us","pagelayer-id":"vzv4781"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nContact Us","pagelayer-id":"uac3775"} -->Contact Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"\n\nServices","pagelayer-id":"ms27291"} -->Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"4","pagelayer-id":"0899338"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch6\u003eGet in Touch\u003c\/h6\u003e","heading_state":"normal","color":"#ea3a60ff","pagelayer-id":"3uz8420"} --><h6>Get in Touch</h6><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_address {"icon":"","color":"#ffffffff","typography":",,,,,,Solid,1.5,,,","ele_margin":"10px,0px,0px,0px","pagelayer-id":"4cz5954"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"","color":"#ffffffff","typography":",,,,,,Solid,,,,","ele_margin":"10px,0px,0px,0px","pagelayer-id":"xvv5108"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"","color":"#ffffffff","typography":",,,,,,Solid,,,,","ele_margin":"10px,0px,0px,0px","pagelayer-id":"7yw3350"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#424242ff","ele_padding":"6px,0px,6px,0px","pagelayer-id":"5wg6993"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","pagelayer-id":"5lc9743"} -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","align":"center","typography":",,,,,,Solid,,,,","copyright_text":"\u00a9 2020 WayMore","pagelayer-id":"qzr3115"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
